@@ -1,7 +1,7 @@
 ### Hi I'm CJ! 💫
 
 🧑🏻‍🎓 Current student studying & self teaching Computer Science<br/>
-😄 I am currently working on a roblox tower defense game<br/>
+😄 I am currently working on a Tower Defense Simulator<br/>
 🌱 I am currently learning about game development<br/>
 
 ## 🌐 Socials
