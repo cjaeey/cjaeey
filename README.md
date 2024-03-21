@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I'm CJ!
+
+🧑🏻‍🎓 Current student studying & self teaching Computer Science<br/>
+😄 I am currently working on a roblox tower defense game<br/>
+🌱 I am currently learning about game development<br/>
+
+[![CJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarelesslyCarlos)](https://github.com/CarelesslyCarlos/github-readme-stats)
+
 
 <!--
 **CarelesslyCarlos/CarelesslyCarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +18,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+https://github.com/anuraghazra/github-readme-stats
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
