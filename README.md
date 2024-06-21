@@ -2,7 +2,7 @@
 
 🧑🏻‍🎓 Current student studying & self teaching Computer Science<br/>
 😄 I am currently working on a Tower Defense Simulator<br/>
-🌱 I am currently learning about game development<br/>
+🌱 I am currently learning about AI development<br/>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-john-escala-382896244) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CarelesslyCarlos) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/carelesslycj) 
@@ -14,6 +14,6 @@
 ![CJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjaeey&show_icons=true&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CarelesslyCarlos&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cjaeey&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
