@@ -1,7 +1,7 @@
 ### Hi I'm CJ! 💫
 
 🧑🏻‍🎓 Current student studying & self teaching Computer Science<br/>
-😄 I am currently working on a Tower Defense Simulator<br/>
+😄 I am currently working on a Web Development<br/>
 🌱 I am currently learning about AI development<br/>
 
 ## 🌐 Socials
