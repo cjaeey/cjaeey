@@ -1,7 +1,7 @@
 ### Hi I'm CJ! 💫
 
 🧑🏻‍🎓 Current student studying & self teaching Computer Science at Skyline College<br/>
-😄 I am currently working on a Chat Application & Communcation Simulation<br/>
+😄 I am currently a beginner working on a Chat Application & Communcation Simulation<br/>
 🌱 I am currently learning about AI development<br/>
 🎨 Making Videos about my lifestyle [Youtube](https://www.youtube.com/@cjaeey)<br/>
 
