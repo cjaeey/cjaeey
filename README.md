@@ -3,7 +3,6 @@
 🧑🏻‍🎓 Current student studying & self teaching Computer Science at Skyline College<br/>
 😄 I am currently a beginner working on a Chat Application & Communcation Simulation<br/>
 🌱 I am currently learning about AI development<br/>
-🎨 Making Videos about my lifestyle [Youtube](https://www.youtube.com/@cjaeey)<br/>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-john-escala-382896244) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CarelesslyCarlos) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/carelesslycj) 
